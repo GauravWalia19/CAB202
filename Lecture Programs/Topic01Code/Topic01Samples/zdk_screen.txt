@@ -1,0 +1,78 @@
+Frame(80,24,1457409938.184658)
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                 ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ                
+                                 Z                                              
+                                 Z                                              
+                                 Z                                              
+                                 Z                                              
+                                 Z                                              
+                                 Z                                              
+                                 Z      Z                                       
+                                 Z      Z                                       
+                                 Z      Z                                       
+                                 Z      Z                                       
+                                 Z      Z                                       
+                              ZZZZZZZZZZZ                                       
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Menu: 2 = Down; 4 = Left; 6 = Right; 8 = Up; q = Quit.                          
+EndFrame
+Frame(80,24,1457409958.664303)
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                        Z                                       
+                                        Z                                       
+                                        Z                                       
+                                        Z                                       
+                                        Z                                       
+                                        Z                                       
+                                        Z                                       
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+Menu: 2 = Down; 4 = Left; 6 = Right; 8 = Up; q = Quit.                          
+EndFrame
+Frame(80,24,1457411602.134639)
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                        Z                                       
+                                        Z                                       
+                                        Z                                       
+                                        Z                                       
+                                        Z                                       
+                                        Z                                       
+                                        Z                                       
+                                        Z                                       
+ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ                                       
+                                                                                
+                                                                                
+Menu: 2 = Down; 4 = Left; 6 = Right; 8 = Up; q = Quit.                          
+EndFrame

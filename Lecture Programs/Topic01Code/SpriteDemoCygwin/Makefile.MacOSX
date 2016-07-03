@@ -1,0 +1,16 @@
+all: SpriteDemo
+
+LIBS=-lzdk -lncurses -lm
+DIRS=-I../ZDK -L../ZDK
+FLAGS=-std=gnu99 -D_XOPEN_SOURCE=500 -Wall -Werror
+
+clean:
+	rm SpriteDemo
+
+rebuild: clean all
+
+SRC=blockhead.c one_square.c ten_squares.c sprite_demo.c
+HDR=blockhead.h one_square.h ten_squares.h
+
+SpriteDemo: $(SRC) $(HDR)
+	gcc $(FLAGS) $(SRC) -o $@ $(DIRS) $(LIBS) 

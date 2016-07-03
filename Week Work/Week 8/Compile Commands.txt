@@ -1,0 +1,5 @@
+avr-gcc -mmcu=atmega32u4 -Os -DF_CPU=8000000UL <C sourse filles> -o <applicationName>.o
+
+
+
+avr-objcopy -O ihex <applicationName>.o <applicationName>.hex
